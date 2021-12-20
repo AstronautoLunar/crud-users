@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "ts-node-dev src/serve.ts"
+    "serve": "ts-node-dev src/bin/serve.ts"
   },
   "keywords": [],
   "author": "",

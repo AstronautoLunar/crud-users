@@ -1,4 +1,4 @@
-import { Server } from "./objects";
+import { Server } from "../objects";
 
 const PORT = 4444;
 
